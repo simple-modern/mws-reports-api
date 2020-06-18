@@ -6,3 +6,5 @@ inside the ions project.
 We could require devs to have these on their local drive at a
 particular place, but it seemed easier to just check them in and
 link to a SHA
+
+https://developer.amazonservices.com/javaclients
